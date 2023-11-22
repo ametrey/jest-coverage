@@ -1,4 +1,3 @@
-const { validate } = require("webpack");
 const { generateText, validateInput } = require("../util.js");
 
 describe("Test generateText", () => {
